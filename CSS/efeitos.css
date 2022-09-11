@@ -1,0 +1,113 @@
+h2, h4{
+    font-family: 'Birthstone Bounce', cursive;
+}
+
+p{
+    font-family: 'Comfortaa', cursive;
+}
+
+a{
+    text-decoration: none;
+}
+
+nav ul li{
+    text-align: center;
+    display: inline;
+    padding-left: 1%;
+    color:azure
+}
+
+li{
+    margin: 1%;
+}
+
+#menu{
+    font-size: 18px;
+    font-family: 'Sansita Swashed', sursive;
+    background-color: darkturquoise;
+    border: 20px solid darkturquoise;
+    margin-top: -0.5%;
+    margin-bottom: 80px;
+}
+
+#ulmicro{
+    font-size: 18px;
+    font-family: 'Sansita Swashed', sursive;
+    background-color: darkturquoise;
+    border: 20px solid darkturquoise;
+    margin-top: -0.5%;
+    margin-bottom: 80px;
+}
+
+.vcmerece{
+    width: 200; 
+    height: 100;
+}
+
+.basico{
+    font-size: 18px;
+    font-family: 'Sansita Swashed', sursive;
+    background-color: darkturquoise;
+    border: 20px solid darkturquoise;
+    margin-top: -0.5%;
+    margin-bottom: 80px;
+    color: azure;
+}
+#fotovcmerece{
+    text-align: right;
+}
+
+#descricao{
+    padding: 4%;
+    border: 3px solid gold;
+    margin-bottom: 80px;
+}
+
+#titudescri{
+    font-size: 32px;
+}
+
+#p1{
+    padding-left: 4%;
+}
+
+.sizefoto, #fotocapa{
+    width: 100%;
+    height: 100%;
+}
+
+.grid-micropig, .grid-cilios{
+    display: grid;
+    grid-template-columns: auto;
+    margin-bottom: 150px;
+}
+
+#fotomicropig{
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-row-end: 1;
+}
+
+#fotomicropig2{
+    grid-column-start: 2;
+    grid-row-start: 1;
+    grid-row-end: 1;
+}
+
+#fotomicropig3{
+    grid-column-start: 3;
+    grid-row-start: 1;
+    grid-row-end: 1;
+}
+
+#fotocilioslindo{
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-row-end: 1;
+}
+
+#fotocilios1{
+    grid-column-start: 2;
+    grid-row-start: 1;
+    grid-row-end: 1;
+}
